@@ -1,0 +1,26 @@
+{
+  "name": "nollywood-names",
+  "version": "1.0.0",
+  "description": "Get randon nollywood names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesagwa/nollywood-names.git"
+  },
+  "keywords": [
+    "random",
+    "nollywood"
+  ],
+  "author": "James Agwa <jamieagwa@gmail.com> (https://github.com/jamesagwa)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jamesagwa/nollywood-names/issues"
+  },
+  "homepage": "https://github.com/jamesagwa/nollywood-names#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
